@@ -21,7 +21,8 @@ This project uses Long Short-Term Memory (LSTM) and Markov Random Field (MRF) mo
 - Pandas
 - NumPy
 - Scikit-learn
-- TensorFlow
+- quandl
+- datetime
 - Keras
 
 ## Installation
