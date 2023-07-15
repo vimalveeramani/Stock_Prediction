@@ -2,7 +2,7 @@
 
 # Stock Prediction using LSTM and MRF models
 
-![Stock Market Image](/images/stock-market.jpg)
+![Stock Market Image](https://th.bing.com/th/id/OIP.Hq8gU2a41EKvYzfsZiB3HQHaE8?pid=ImgDet&rs=1)
 
 ## Description
 
